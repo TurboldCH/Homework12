@@ -1,0 +1,8 @@
+1.	The assignment is compelete and runs without errors after testing many times.
+2.	The program produces the correct result. It runs smoothly
+3.	I tested it thoroughly to make sure there wasn't an error.
+4.	In total, I spent roughly a day working on it because of the testing.
+5.	I wrote it myself and didn't get help from anyone
+6.	I referred to google especially since the assignment was to explore the topic ourselves.
+7.	I learned a lot about serialization and its importance.
+8.	Nope, have a good day!
